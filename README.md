@@ -1,13 +1,12 @@
-# Sample Hardhat Project
+# CryptoBeetles 2.0 - ERC-721 NFT Collection
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+- NFT collection deployed to the Goerli ETH Testnet @ [0x91E057dc30973a317910367d4487a20f55421E0a](https://goerli.etherscan.io/address/0x91e057dc30973a317910367d4487a20f55421e0a).
+- Listed for sale on [OpenSea](https://testnets.opensea.io/collection/cryptobeetles-jo9j1bgz6o).
+- Leverages: [OpenZeppelins ERC721 library](https://docs.openzeppelin.com/contracts/2.x/api/token/erc721).
+- NTT metadata published on IPFS. 
+- Deployed using [Hardhat](https://hardhat.org/).
+- Contains dedicated `deploy.js` & `mint.js` scripts. 
 
-Try running some of the following tasks:
+![CryptoBeetles 2.0 Collection on Opensea](metadata/images/collection.png)
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+
