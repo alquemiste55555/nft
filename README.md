@@ -7,6 +7,8 @@
 - Deployed using [Hardhat](https://hardhat.org/).
 - Contains dedicated `deploy.js` & `mint.js` scripts. 
 
+
+
 ![CryptoBeetles 2.0 Collection on Opensea](metadata/images/collection.png)
 
 
